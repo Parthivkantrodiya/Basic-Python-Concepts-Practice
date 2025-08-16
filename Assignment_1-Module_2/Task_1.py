@@ -1,1 +1,7 @@
-print('hello world')
+number_1 = int(input("Enter the first number: "))
+number_2 = int(input("Enter the second number: "))
+print("")
+print(f"Addition: {number_1 + number_2}")
+print(f"Subtraction: {number_1 - number_2}")
+print(f"Multiplication: {number_1 * number_2}")
+print(f"Division: {number_1 / number_2:.2f}")

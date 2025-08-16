@@ -1,6 +1,5 @@
 # Basic-Python-Concepts-Practice
 
-# Python Tasks
 
 This repository contains two simple Python scripts that demonstrate basic user input, arithmetic operations, and string formatting.
 
